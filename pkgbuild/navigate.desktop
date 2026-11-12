@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Navigate
+Comment=Browse and manage files
+Exec=navigate
+Icon=navigate
+Categories=System;FileManager;Qt;
+Terminal=false
